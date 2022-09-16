@@ -30,3 +30,24 @@ program for permitition.
 program for anagram.
 program for regular expression.
 program for string operation.
+DAY-4
+program for string array.
+program for user.
+program for cuurent number.
+program for valid number.
+program for jumps.
+program for function delchar.
+program for count string.
+program for roman to integer.
+program for seasons.
+program for scramble string.
+DAY-5
+program for substring.
+program for newyear.
+program for perfect square.
+program for little robert.
+program for peak element.
+program for triangular array.
+program for repeating characters.
+program for shuffle.
+program for reverse words.
